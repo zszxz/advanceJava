@@ -20,6 +20,10 @@
 
 [《MySQL分页查询优化》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485695&idx=2&sn=b4c456b5ea3eec3dc7aa4e5cea659ba6&chksm=a6908f6e91e70678d1b5b70849c5edcc9484e5cd615707e2375849ccbcb4c764494568d23001&token=22303395&lang=zh_CN#rd)
 
+## 2.4 git
+
+[《一分钟玩转git》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485701&idx=1&sn=26fc01ec6bd97717be3ca10af1cd2db3&chksm=a6908e9491e70782e5dddac496376242117317fb4eb7d704fd1f35d287fe2309cc3aab0e0147&token=1671410784&lang=zh_CN#rd)
+
 # 三 欢迎关注知识追寻者
 
 
