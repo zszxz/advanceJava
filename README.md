@@ -2,7 +2,7 @@
 
 大家好，我是知识追寻者；**advanceJava**仓库是 收集 网上优质的java文章，主在分享学习，希望读者们踊跃投稿！也欢迎读者们start ， 关注**知识追寻者**公众号，领取知识追寻者原创PDF，面试文章，人文小知识，一起学习进步；
 
-
+本仓库地址：https://github.com/zszxz/advanceJava
 
 # 二 文章索引
 
@@ -23,6 +23,10 @@
 ## 2.4 git
 
 [《一分钟玩转git》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485701&idx=1&sn=26fc01ec6bd97717be3ca10af1cd2db3&chksm=a6908e9491e70782e5dddac496376242117317fb4eb7d704fd1f35d287fe2309cc3aab0e0147&token=1671410784&lang=zh_CN#rd)
+
+## 2.5 架构
+
+[《微服务统一登陆认证怎么做？JWT ？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485751&idx=1&sn=bbc374ec78a078ff0ed6b5b42974abfe&chksm=a6908ea691e707b0764af53de1599a64a2e32cbd5a4c5feaec06f164a66906b3c804dc8a2f51&token=463956601&lang=zh_CN#rd)
 
 # 三 欢迎关注知识追寻者
 
