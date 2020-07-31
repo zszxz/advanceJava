@@ -14,6 +14,8 @@
 
 [《spring boot实现动态增删启停定时任务》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485591&idx=2&sn=b9ee42a0e2cfcfb22617c31596981561&chksm=a6908f0691e706109edc871b4dc3acd956e8247b98637828e10677ecd583e0e4c71b6eb17cd9&token=22303395&lang=zh_CN#rd)
 
+[《springBoot注解大全》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485829&idx=1&sn=ac0f1cba91f1e9a77a4595a7ca47dd33&chksm=a6908e1491e707021bc597d1cd0a6a21a7616728bd82e674e01f30074a1c2bd2cff5f9b02f3f&token=1656593988&lang=zh_CN#rd)
+
 ## 2.3 SQL
 
 [《分库分表【Sharding-JDBC】入门与项目实战》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485516&idx=2&sn=1b6ced49cd8567f728eece27d9ffd2e7&chksm=a6908fdd91e706cbf88d4d69973a664b90992376c7614831758bbdd8a9ed9aa1dcad2da56208&token=22303395&lang=zh_CN#rd)
