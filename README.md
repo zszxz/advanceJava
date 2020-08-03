@@ -32,6 +32,8 @@
 
 [《为什么阿里巴巴要禁用Executors创建线程池？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486247&idx=1&sn=3d0cb629d4514d98555d6a110ce516be&chksm=a6908cb691e705a02dfd77c4017cf5f7d50ecbde742b79f7aff42a4c7a85b0ddae029efa322c&token=1595384986&lang=zh_CN#rd)
 
+[《Java中的多线程你只要看这一篇就够了》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486261&idx=1&sn=70a4ed529c413852a5ea8930b0794e15&chksm=a6908ca491e705b2a072d31c2ed3bcacad547d9697a1f5bdaf4c44dbb7cc0c812476e8cd7433&token=377269202&lang=zh_CN#rd)
+
 ## 2.6 架构
 
 [《微服务统一登陆认证怎么做？JWT ？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485751&idx=1&sn=bbc374ec78a078ff0ed6b5b42974abfe&chksm=a6908ea691e707b0764af53de1599a64a2e32cbd5a4c5feaec06f164a66906b3c804dc8a2f51&token=463956601&lang=zh_CN#rd)
