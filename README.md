@@ -34,7 +34,11 @@
 
 [《Java中的多线程你只要看这一篇就够了》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486261&idx=1&sn=70a4ed529c413852a5ea8930b0794e15&chksm=a6908ca491e705b2a072d31c2ed3bcacad547d9697a1f5bdaf4c44dbb7cc0c812476e8cd7433&token=377269202&lang=zh_CN#rd)
 
-## 2.6 架构
+## 2.6 消息队列
+
+[《世上最全的RabbitMQ-总结》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486300&idx=2&sn=22de0fe83b44fcc31378786465b04b46&chksm=a6908ccd91e705db016667b3334c3ede5499550f5f3113e1c4a35ee0ee1525ee21807ad1ad69&token=2093648098&lang=zh_CN#rd)
+
+## 2.7架构
 
 [《微服务统一登陆认证怎么做？JWT ？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485751&idx=1&sn=bbc374ec78a078ff0ed6b5b42974abfe&chksm=a6908ea691e707b0764af53de1599a64a2e32cbd5a4c5feaec06f164a66906b3c804dc8a2f51&token=463956601&lang=zh_CN#rd)
 
