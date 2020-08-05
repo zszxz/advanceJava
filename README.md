@@ -24,6 +24,8 @@
 
 [《mysql插入数据后返回自增ID的方法》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485941&idx=1&sn=104ccc2a42d858ada4ca00a7737cca5f&chksm=a6908e6491e707720795893f09ca6cceb613d9d25d9c8fc7c7a206e25b028f76bcb702c27329&token=482547197&lang=zh_CN#rd)
 
+[《删库不跑路-详解MySQL数据恢复》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=1&sn=bdc44a92d38bbd29e0e208eb13b302b5&chksm=a6908cf291e705e48ddba8d53dd4b6d986cbbbd905e5cee760500b2a57769b90cd9cb0c673cc&token=1351891679&lang=zh_CN#rd)
+
 ## 2.4 git
 
 [《一分钟玩转git》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485701&idx=1&sn=26fc01ec6bd97717be3ca10af1cd2db3&chksm=a6908e9491e70782e5dddac496376242117317fb4eb7d704fd1f35d287fe2309cc3aab0e0147&token=1671410784&lang=zh_CN#rd)
@@ -38,7 +40,11 @@
 
 [《世上最全的RabbitMQ-总结》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486300&idx=2&sn=22de0fe83b44fcc31378786465b04b46&chksm=a6908ccd91e705db016667b3334c3ede5499550f5f3113e1c4a35ee0ee1525ee21807ad1ad69&token=2093648098&lang=zh_CN#rd)
 
-## 2.7架构
+## 2.7 规范
+
+[《RESTful API设计规范》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=2&sn=fc660ee3ed04589f1dae5c7f7eac8f42&chksm=a6908cf291e705e4f514c4fe07cddba4fc887b92ebc4e4018b32a5dd49212ce105d73f8388f3&token=1351891679&lang=zh_CN#rd)
+
+## 2.8架构
 
 [《微服务统一登陆认证怎么做？JWT ？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485751&idx=1&sn=bbc374ec78a078ff0ed6b5b42974abfe&chksm=a6908ea691e707b0764af53de1599a64a2e32cbd5a4c5feaec06f164a66906b3c804dc8a2f51&token=463956601&lang=zh_CN#rd)
 
