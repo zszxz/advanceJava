@@ -50,7 +50,11 @@
 
 [《RESTful API设计规范》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=2&sn=fc660ee3ed04589f1dae5c7f7eac8f42&chksm=a6908cf291e705e4f514c4fe07cddba4fc887b92ebc4e4018b32a5dd49212ce105d73f8388f3&token=1351891679&lang=zh_CN#rd)
 
-## 2.9架构
+## 2.9 计算机基础
+
+[《三天两夜肝完这篇万字长文，终于拿下了TCP/IP》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486608&idx=1&sn=38d31824d09108c33b738e999fcbfdc6&chksm=a6908b0191e70217016943cd09351c0fb2a6051d72f0ada33045f39e681262506dcfb57d6c1a&token=682273603&lang=zh_CN#rd)
+
+## 2.10架构
 
 [《微服务统一登陆认证怎么做？JWT ？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485751&idx=1&sn=bbc374ec78a078ff0ed6b5b42974abfe&chksm=a6908ea691e707b0764af53de1599a64a2e32cbd5a4c5feaec06f164a66906b3c804dc8a2f51&token=463956601&lang=zh_CN#rd)
 
