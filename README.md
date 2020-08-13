@@ -22,6 +22,8 @@
 
 [《springBoot注解大全》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485829&idx=1&sn=ac0f1cba91f1e9a77a4595a7ca47dd33&chksm=a6908e1491e707021bc597d1cd0a6a21a7616728bd82e674e01f30074a1c2bd2cff5f9b02f3f&token=1656593988&lang=zh_CN#rd)
 
+[《SpringBoot封装我们自己的Starter》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486634&idx=2&sn=f55472e50e34e954508b50b9b7711775&chksm=a6908b3b91e7022d69aca2b43dfe6eab84f07e47d1ba48f6ddbd7a66f40bdf0b26634bd82cb9&token=1221221288&lang=zh_CN#rd)
+
 ## 2.4 SQL
 
 [《分库分表【Sharding-JDBC】入门与项目实战》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485516&idx=2&sn=1b6ced49cd8567f728eece27d9ffd2e7&chksm=a6908fdd91e706cbf88d4d69973a664b90992376c7614831758bbdd8a9ed9aa1dcad2da56208&token=22303395&lang=zh_CN#rd)
