@@ -60,6 +60,12 @@
 
 [《微服务统一登陆认证怎么做？JWT ？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485751&idx=1&sn=bbc374ec78a078ff0ed6b5b42974abfe&chksm=a6908ea691e707b0764af53de1599a64a2e32cbd5a4c5feaec06f164a66906b3c804dc8a2f51&token=463956601&lang=zh_CN#rd)
 
+## 2.11 注意点
+
+[《永远不要在代码中使用“User”这个单词》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486732&idx=1&sn=6034ac31a5796565df45193f40029d0d&chksm=a6908a9d91e7038bb548c3aea1da3254c36b155c44295c585fd01c9406db376201f69b2af7ba&token=49221559&lang=zh_CN#rd)
+
+[《Redis——由分布式锁造成的重大事故》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486708&idx=2&sn=fb64b0616c6776e13759c4e56c8aba2c&chksm=a6908b6591e702736da6d742fe03b079c576f326c092fa5fe076893f7057e4a8a306240f26fc&token=49221559&lang=zh_CN#rd)
+
 # 三 欢迎关注知识追寻者
 
 
