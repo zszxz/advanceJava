@@ -28,6 +28,10 @@
 
 [《SpringBoot封装我们自己的Starter》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486634&idx=2&sn=f55472e50e34e954508b50b9b7711775&chksm=a6908b3b91e7022d69aca2b43dfe6eab84f07e47d1ba48f6ddbd7a66f40bdf0b26634bd82cb9&token=1221221288&lang=zh_CN#rd)；
 
+[《Spring Boot集成Sharding-jdbc + Mybatis-Plus实现分库分表》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486856&idx=2&sn=91502f298855cbc136bddefebcbd25c3&chksm=a6908a1991e7030f69fb014d9239ed0f906987a88d4b477d53436d1736c057a14ad4d366752b&token=1573060596&lang=zh_CN#rd)；
+
+[《SpringBoot+Mybatis+ Druid+PageHelper 实现多数据源并分页》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486892&idx=1&sn=9f675dad50b18ce55be2bdfa2ace9dbc&chksm=a6908a3d91e7032be17ae528c460fb30155869213fcaff5e9209d9d7e1839cd60020eba905ee&token=1573060596&lang=zh_CN#rd)；
+
 ## 2.4 SQL
 
 [《分库分表【Sharding-JDBC】入门与项目实战》；](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485516&idx=2&sn=1b6ced49cd8567f728eece27d9ffd2e7&chksm=a6908fdd91e706cbf88d4d69973a664b90992376c7614831758bbdd8a9ed9aa1dcad2da56208&token=22303395&lang=zh_CN#rd)
@@ -60,17 +64,27 @@
 
 [《三天两夜肝完这篇万字长文，终于拿下了TCP/IP》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486608&idx=1&sn=38d31824d09108c33b738e999fcbfdc6&chksm=a6908b0191e70217016943cd09351c0fb2a6051d72f0ada33045f39e681262506dcfb57d6c1a&token=682273603&lang=zh_CN#rd)；
 
-## 2.10架构
+## 2.10mybatis
+
+[《Mybatis框架下SQL注入审计分析》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486949&idx=1&sn=52f8d854afc271cb87af61d525300884&chksm=a6908a7491e70362a0eb9bcd50d4ef567c1de5c3c9f87ec59c0aee021a0e0ecc6b3563dad118&token=1573060596&lang=zh_CN#rd)；
+
+## 2.11架构
 
 [《微服务统一登陆认证怎么做？JWT ？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485751&idx=1&sn=bbc374ec78a078ff0ed6b5b42974abfe&chksm=a6908ea691e707b0764af53de1599a64a2e32cbd5a4c5feaec06f164a66906b3c804dc8a2f51&token=463956601&lang=zh_CN#rd)；
 
 [《傻傻分不清之 Cookie、Session、Token、JWT》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486787&idx=1&sn=e5e12d9ddefd620c486c0e97a3ab8720&chksm=a6908ad291e703c4094e2b8643141992637b41ec13ec42dffc19d86498d08c098d8099fd8d3f&token=941737069&lang=zh_CN#rd)；
 
-## 2.11 注意点
+## 2.12 注意点
 
 [《永远不要在代码中使用“User”这个单词》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486732&idx=1&sn=6034ac31a5796565df45193f40029d0d&chksm=a6908a9d91e7038bb548c3aea1da3254c36b155c44295c585fd01c9406db376201f69b2af7ba&token=49221559&lang=zh_CN#rd)；
 
 [《Redis——由分布式锁造成的重大事故》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486708&idx=2&sn=fb64b0616c6776e13759c4e56c8aba2c&chksm=a6908b6591e702736da6d742fe03b079c576f326c092fa5fe076893f7057e4a8a306240f26fc&token=49221559&lang=zh_CN#rd)；
+
+## 2.13 面试题
+
+[《SpringCloud 与 SpringBoot 微服务 架构 | 面试题及答案详解》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486840&idx=1&sn=3ac7489384aea1641562ede0a50e810d&chksm=a6908ae991e703ffe92c95b0612d84f800ac6c36061a84765e3c082be33634df2e2861dabe3c&token=1573060596&lang=zh_CN#rd)；
+
+
 
 # 三 欢迎关注知识追寻者
 
