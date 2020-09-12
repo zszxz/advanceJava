@@ -12,9 +12,11 @@
 
 [《java泛型背后是什么》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485557&idx=2&sn=b4df8aa12286a327596779659d398606&chksm=a6908fe491e706f27784e40c247497409825b9f7477cc60da4b967b11bdd726a2f40283be85c&token=22303395&lang=zh_CN#rd)；
 
+[《HashMap的加载因子为什么是0.75？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486832&idx=1&sn=c0358ff3ae237508e9e1c705ee6a62a6&chksm=a6908ae191e703f76f45fca48cdda2057613c40294a1ca5c9570b1d56cf8e8a24dc0e17ace3e&token=941737069&lang=zh_CN#rd)；
+
 [《Lambda表达式详解》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486450&idx=1&sn=8f95ebec87c8aa663ccbe9b26d2ee441&chksm=a6908c6391e70575381dfbe8a71e21a91c84bcf62b11377b42bca000b3f91a8502de59a10214&token=1937256387&lang=zh_CN#rd)；
 
-[《HashMap的加载因子为什么是0.75？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486832&idx=1&sn=c0358ff3ae237508e9e1c705ee6a62a6&chksm=a6908ae191e703f76f45fca48cdda2057613c40294a1ca5c9570b1d56cf8e8a24dc0e17ace3e&token=941737069&lang=zh_CN#rd)；
+[《java8 快速实现List转map 、分组、过滤等操作》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486963&idx=1&sn=9d8a365ec8261e336e0837cea4cb564e&chksm=a6908a6291e70374236d9ae56d7fe71508825f3e6f9de028af216addb18ed453e81f4ec66265&token=108009650&lang=zh_CN#rd)；
 
 ## 2.2 spring
 
@@ -32,15 +34,19 @@
 
 [《SpringBoot+Mybatis+ Druid+PageHelper 实现多数据源并分页》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486892&idx=1&sn=9f675dad50b18ce55be2bdfa2ace9dbc&chksm=a6908a3d91e7032be17ae528c460fb30155869213fcaff5e9209d9d7e1839cd60020eba905ee&token=1573060596&lang=zh_CN#rd)；
 
+[《Nginx+SpringBoot实现负载均衡》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487032&idx=1&sn=b9b2cdffd9fb05058f94b6ed8923dfd7&chksm=a69089a991e700bfdbbbc468d4ceb9c95c5a46caf3f8fbc1ec65f4a1fe743fba74139e880d2c&token=1742821280&lang=zh_CN#rd)；
+
 ## 2.4 SQL
 
-[《分库分表【Sharding-JDBC】入门与项目实战》；](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485516&idx=2&sn=1b6ced49cd8567f728eece27d9ffd2e7&chksm=a6908fdd91e706cbf88d4d69973a664b90992376c7614831758bbdd8a9ed9aa1dcad2da56208&token=22303395&lang=zh_CN#rd)
+[《分库分表【Sharding-JDBC】入门与项目实战》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485516&idx=2&sn=1b6ced49cd8567f728eece27d9ffd2e7&chksm=a6908fdd91e706cbf88d4d69973a664b90992376c7614831758bbdd8a9ed9aa1dcad2da56208&token=22303395&lang=zh_CN#rd)；
 
-[《MySQL分页查询优化》；](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485695&idx=2&sn=b4c456b5ea3eec3dc7aa4e5cea659ba6&chksm=a6908f6e91e70678d1b5b70849c5edcc9484e5cd615707e2375849ccbcb4c764494568d23001&token=22303395&lang=zh_CN#rd)
+[《MySQL分页查询优化》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485695&idx=2&sn=b4c456b5ea3eec3dc7aa4e5cea659ba6&chksm=a6908f6e91e70678d1b5b70849c5edcc9484e5cd615707e2375849ccbcb4c764494568d23001&token=22303395&lang=zh_CN#rd)；
 
-[《mysql插入数据后返回自增ID的方法》；](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485941&idx=1&sn=104ccc2a42d858ada4ca00a7737cca5f&chksm=a6908e6491e707720795893f09ca6cceb613d9d25d9c8fc7c7a206e25b028f76bcb702c27329&token=482547197&lang=zh_CN#rd)
+[《mysql插入数据后返回自增ID的方法》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485941&idx=1&sn=104ccc2a42d858ada4ca00a7737cca5f&chksm=a6908e6491e707720795893f09ca6cceb613d9d25d9c8fc7c7a206e25b028f76bcb702c27329&token=482547197&lang=zh_CN#rd)；
 
-[《删库不跑路-详解MySQL数据恢复》；](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=1&sn=bdc44a92d38bbd29e0e208eb13b302b5&chksm=a6908cf291e705e48ddba8d53dd4b6d986cbbbd905e5cee760500b2a57769b90cd9cb0c673cc&token=1351891679&lang=zh_CN#rd)
+[《删库不跑路-详解MySQL数据恢复》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=1&sn=bdc44a92d38bbd29e0e208eb13b302b5&chksm=a6908cf291e705e48ddba8d53dd4b6d986cbbbd905e5cee760500b2a57769b90cd9cb0c673cc&token=1351891679&lang=zh_CN#rd)；
+
+[《MySQL数据库之互联网常用分库分表方案》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487082&idx=1&sn=db97e2acbe415b8f833f91cd910f9823&chksm=a69089fb91e700ed866ca3c97208fdc73b9fd6ce7782df064e2cc324623c686d1ec4f02b7b4f&token=1742821280&lang=zh_CN#rd)；
 
 ## 2.5开发工具
 
@@ -56,7 +62,7 @@
 
 [《世上最全的RabbitMQ-总结》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486300&idx=2&sn=22de0fe83b44fcc31378786465b04b46&chksm=a6908ccd91e705db016667b3334c3ede5499550f5f3113e1c4a35ee0ee1525ee21807ad1ad69&token=2093648098&lang=zh_CN#rd)；
 
-## 2.8 规范
+## 2.8 开发规范
 
 [《RESTful API设计规范》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=2&sn=fc660ee3ed04589f1dae5c7f7eac8f42&chksm=a6908cf291e705e4f514c4fe07cddba4fc887b92ebc4e4018b32a5dd49212ce105d73f8388f3&token=1351891679&lang=zh_CN#rd)；
 
@@ -80,14 +86,20 @@
 
 [《Redis——由分布式锁造成的重大事故》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486708&idx=2&sn=fb64b0616c6776e13759c4e56c8aba2c&chksm=a6908b6591e702736da6d742fe03b079c576f326c092fa5fe076893f7057e4a8a306240f26fc&token=49221559&lang=zh_CN#rd)；
 
-## 2.13 面试题
+## 2.13 redis
+
+[《Redis分布式锁的实现（Jedis和Redisson两个方案）》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487127&idx=1&sn=80f8a975d64e365f7dfb7f3809f92435&chksm=a690890691e7001057c63dde457f299ae46552b1751349bd0e7f9b2cd5505da8052264130442&token=1742821280&lang=zh_CN#rd)；
+
+# 三 面试题
+
+## 3.1springboot 面试题
 
 [《SpringCloud 与 SpringBoot 微服务 架构 | 面试题及答案详解》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486840&idx=1&sn=3ac7489384aea1641562ede0a50e810d&chksm=a6908ae991e703ffe92c95b0612d84f800ac6c36061a84765e3c082be33634df2e2861dabe3c&token=1573060596&lang=zh_CN#rd)；
 
 
 
-# 三 欢迎关注知识追寻者
+# 四 欢迎关注知识追寻者
 
-
+关注公众号：回复 拍拍知识追寻者，领取面试资料和原创PDF教程；
 
 ![](https://gitee.com/lsc180/images/raw/master/img/zszxz.jpg)
