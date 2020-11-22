@@ -25,6 +25,7 @@
 ## 2.3 计算机基础
 
 1. [《三天两夜肝完这篇万字长文，终于拿下了TCP/IP》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486608&idx=1&sn=38d31824d09108c33b738e999fcbfdc6&chksm=a6908b0191e70217016943cd09351c0fb2a6051d72f0ada33045f39e681262506dcfb57d6c1a&token=682273603&lang=zh_CN#rd)；
+2. [《关于 TCP/IP，必知必会的十个问题》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488451&idx=1&sn=e282e96b22457c5305ff32d43ba64e04&chksm=a690945291e71d445afafe53765506e4f77f5976e5be13880746377f428011354b3cddc0175d&token=776398405&lang=zh_CN#rd)；//2020-10-26 
 
 ## 2.4 开发规范
 
@@ -41,6 +42,7 @@
 ## 2.7开发工具
 
 1. [《一分钟玩转git》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485701&idx=1&sn=26fc01ec6bd97717be3ca10af1cd2db3&chksm=a6908e9491e70782e5dddac496376242117317fb4eb7d704fd1f35d287fe2309cc3aab0e0147&token=1671410784&lang=zh_CN#rd)；
+2. [《您必须知道的 Git 分支开发规范》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488594&idx=1&sn=aa14fb3b6bd351512386e82e0822a19f&chksm=a69093c391e71ad574df1a6f274f6021169a29d79adb8c48f27ec2d79e66908fc00a748d5e9d&token=776398405&lang=zh_CN#rd)；// 2020-10-29
 
 ## 2.8架构
 
@@ -51,12 +53,14 @@
 
 1. [《nginx windows安装、使用和配置开机启动》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487953&idx=1&sn=4e6f450751e084073ce1b31547d1b0da&chksm=a690964091e71f561062db2c4570bcc5beb9d3a601c2980aee48e43f3dbf263f2c4ea08e23b6&token=756679922&lang=zh_CN#rd);
 2. [《Nginx+SpringBoot实现负载均衡》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487032&idx=1&sn=b9b2cdffd9fb05058f94b6ed8923dfd7&chksm=a69089a991e700bfdbbbc468d4ceb9c95c5a46caf3f8fbc1ec65f4a1fe743fba74139e880d2c&token=1742821280&lang=zh_CN#rd)；
+3. [《搞懂Nginx一篇文章就够了》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488550&idx=1&sn=332f4b6007d9d853beda0b960bacb8a6&chksm=a69093b791e71aa1a817ce5903edf2d283ee015034ec5afb491ca9a6f167256457d896be8713&token=776398405&lang=zh_CN#rd)；//2020-10-27
 
 # 三 框架技术
 
 ## 3.1mybatis
 
 1. [《Mybatis框架下SQL注入审计分析》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486949&idx=1&sn=52f8d854afc271cb87af61d525300884&chksm=a6908a7491e70362a0eb9bcd50d4ef567c1de5c3c9f87ec59c0aee021a0e0ecc6b3563dad118&token=1573060596&lang=zh_CN#rd)；
+2. [《mybatis代码生成器，提高开发效率》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488651&idx=1&sn=0adf98c171e1975e73df438608c448a8&chksm=a690931a91e71a0c9cad64a4501482b5f82ffd391749811c7fcea9c880db280f803f46f28dfb&token=776398405&lang=zh_CN#rd)；// 2020-11
 
 ## 3.2 spring
 
@@ -72,6 +76,11 @@
 6. [《鱼与熊掌得兼：Hibernate与Mybatis共存》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487262&idx=1&sn=edaa0914f5fa5814f12bdb6f8d6d1fa7&chksm=a690888f91e70199d12f628e7a15d62916383187d4d935cfb8365a6f3508c21eb027c07001b2&token=1512196779&lang=zh_CN#rd)；
 7. [《基于Spring Boot发送 mail》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487930&idx=1&sn=6a00d2e0da9be39d8df4b788b44acea2&chksm=a690962b91e71f3d43a0d69724e192cb0f1dd668f66a650579446297d36cf4498cfa3358ee86&token=1610664951&lang=zh_CN#rd);
 8. [《swagger添加权限验证，swagger安全控制》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487968&idx=1&sn=0a242950d1dd170dbd7e9e444c5733d5&chksm=a690967191e71f67d2055abc2b66815e4135c55d3f0a64848a6f26b3674cafae1acad50825b7&token=756679922&lang=zh_CN#rd);
+9. [《Logback配置文件这么写，TPS提高10倍》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488617&idx=1&sn=7dfe292151fb83783fc2e3812534d58e&chksm=a69093f891e71aee4c54b6a47824b4a78a9959f99e9ed906bb8138add2d9335b03a586236046&token=776398405&lang=zh_CN#rd)；// 2020-11-02
+
+## 3.4 springSecurity
+
+1.  [《Spring Security 真正的前后分离实现》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489023&idx=1&sn=ba258ce638aa49004e10318e5d8bd898&chksm=a690926e91e71b78e2e3667489c660bad2f1caa890fc4e43514306a7bd38753c104410419b65&token=776398405&lang=zh_CN#rd)；// 2020-11-18
 
 # 四 数据库知识
 
@@ -84,6 +93,8 @@
 5. [《MySQL数据库之互联网常用分库分表方案》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487082&idx=1&sn=db97e2acbe415b8f833f91cd910f9823&chksm=a69089fb91e700ed866ca3c97208fdc73b9fd6ce7782df064e2cc324623c686d1ec4f02b7b4f&token=1742821280&lang=zh_CN#rd)；
 6. [《MYSQL MVCC实现原理》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487989&idx=1&sn=8dd2faf1b87213a6c5ba90b12225372e&chksm=a690966491e71f72384d8a00bab33b17c8056b873a20f032ba69bc7af979a9c46990dd71899f&token=756679922&lang=zh_CN#rd);
 7. [《delete后加 limit是个好习惯么》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488002&idx=1&sn=2a4fe1cc304c3e9a24a8d0e4b3aafc80&chksm=a690959391e71c85b7a5bfbbb19333e6224683ac7fd71277ea7c89216388691e3d48e6aca03a&token=756679922&lang=zh_CN#rd);
+8. [《not in与not exists的区别》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488799&idx=1&sn=101500671be9688473916840ae472687&chksm=a690928e91e71b98c4176100148cb7f305adc1833402b07d6e6695a1c32188b7d4e738b892b2&token=776398405&lang=zh_CN#rd)；// 2020-11-09
+9. [《MySQL常见SQL错误用法》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489063&idx=1&sn=86072caad279056e164098b51236c4b3&chksm=a69091b691e718a006d64c29dd697bec98c7f583b206a7425d7d8761640b2edc83dbbca3f497&token=776398405&lang=zh_CN#rd)；// 2020-11-19
 
 # 五 容器化技术
 
@@ -117,7 +128,8 @@
 ## 7.3 java基础面试题
 
 1. [《阿里面试题：ConcurrentHashMap为什么是线程安全的？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487388&idx=1&sn=3d4c7a1ccd99feeb77772072aa4336e4&chksm=a690880d91e7011b02e3727c27422ebd27d60f99d3ea946d796dbd9528c200bcdff460c6c58d&token=1512196779&lang=zh_CN#rd)；
-2. [《面试必问的AQS（AbstractQueuedSynchronizer），一文全搞定》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487593&idx=1&sn=af68c2c3a022f8d8a668b6388f7abaf7&chksm=a69097f891e71eee401ee2f57338a642c21f1d999a4f69f61a1530be3c7c078afab051e6300c&token=1610664951&lang=zh_CN#rd);
+2. [《面试必问的AQS（AbstractQueuedSynchronizer），一文全搞定》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487593&idx=1&sn=af68c2c3a022f8d8a668b6388f7abaf7&chksm=a69097f891e71eee401ee2f57338a642c21f1d999a4f69f61a1530be3c7c078afab051e6300c&token=1610664951&lang=zh_CN#rd);、
+3. [《面试官：String长度有限制吗？是多少？》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489093&idx=1&sn=fa1f44b4a5309928fbfacc5b654ff0e8&chksm=a69091d491e718c21ef21e8bb39f6a531c69cc74e7e07e789581ba0f5e00033329c5891070b2&token=776398405&lang=zh_CN#rd)；// 2020-11-20
 
 # 八 源码系列
 
