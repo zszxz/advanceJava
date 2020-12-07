@@ -11,10 +11,11 @@
 ## 2.1 java基础系列
 
 1. [《java泛型背后是什么》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485557&idx=2&sn=b4df8aa12286a327596779659d398606&chksm=a6908fe491e706f27784e40c247497409825b9f7477cc60da4b967b11bdd726a2f40283be85c&token=22303395&lang=zh_CN#rd)；
-2. [《Lambda表达式详解》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486450&idx=1&sn=8f95ebec87c8aa663ccbe9b26d2ee441&chksm=a6908c6391e70575381dfbe8a71e21a91c84bcf62b11377b42bca000b3f91a8502de59a10214&token=1937256387&lang=zh_CN#rd)；
-3. [《java8 快速实现List转map 、分组、过滤等操作》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486963&idx=1&sn=9d8a365ec8261e336e0837cea4cb564e&chksm=a6908a6291e70374236d9ae56d7fe71508825f3e6f9de028af216addb18ed453e81f4ec66265&token=108009650&lang=zh_CN#rd)；
-4. [《JDK 15安装及新特性介绍》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487727&idx=1&sn=d62358b062d7d2325f0c6c5dcc09c3b9&chksm=a690977e91e71e6820c8548ed8fb0873a0ad05b7bc28886f32a5d1dfa9a87141b011cbe49d77&token=1610664951&lang=zh_CN#rd);
-5. [《Java BigDecimal详解》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487795&idx=1&sn=ca5336c7c0727b49645d381d6fe28645&chksm=a69096a291e71fb47487d9816f84c6e4f3bd14643a716e06ee6c9d344a26111eb61d5b929ace&token=1610664951&lang=zh_CN#rd);
+2. [《JAVA 泛型中的通配符你了解多少》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489360&idx=1&sn=7bf0d78dcec57a27f60ff6abce723d85&chksm=a69090c191e719d75d876fa7ad541cda3060f163fca944111f5d2503e95ef3291a3a122ddafa&token=1662065714&lang=zh_CN#rd)；// 2020-12-03
+3. [《Lambda表达式详解》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486450&idx=1&sn=8f95ebec87c8aa663ccbe9b26d2ee441&chksm=a6908c6391e70575381dfbe8a71e21a91c84bcf62b11377b42bca000b3f91a8502de59a10214&token=1937256387&lang=zh_CN#rd)；
+4. [《java8 快速实现List转map 、分组、过滤等操作》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486963&idx=1&sn=9d8a365ec8261e336e0837cea4cb564e&chksm=a6908a6291e70374236d9ae56d7fe71508825f3e6f9de028af216addb18ed453e81f4ec66265&token=108009650&lang=zh_CN#rd)；
+5. [《JDK 15安装及新特性介绍》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487727&idx=1&sn=d62358b062d7d2325f0c6c5dcc09c3b9&chksm=a690977e91e71e6820c8548ed8fb0873a0ad05b7bc28886f32a5d1dfa9a87141b011cbe49d77&token=1610664951&lang=zh_CN#rd);
+6. [《Java BigDecimal详解》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487795&idx=1&sn=ca5336c7c0727b49645d381d6fe28645&chksm=a69096a291e71fb47487d9816f84c6e4f3bd14643a716e06ee6c9d344a26111eb61d5b929ace&token=1610664951&lang=zh_CN#rd);
 
 ## 2.2并发编程
 
@@ -26,10 +27,12 @@
 
 1. [《三天两夜肝完这篇万字长文，终于拿下了TCP/IP》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486608&idx=1&sn=38d31824d09108c33b738e999fcbfdc6&chksm=a6908b0191e70217016943cd09351c0fb2a6051d72f0ada33045f39e681262506dcfb57d6c1a&token=682273603&lang=zh_CN#rd)；
 2. [《关于 TCP/IP，必知必会的十个问题》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488451&idx=1&sn=e282e96b22457c5305ff32d43ba64e04&chksm=a690945291e71d445afafe53765506e4f77f5976e5be13880746377f428011354b3cddc0175d&token=776398405&lang=zh_CN#rd)；//2020-10-26 
+3. [《什么是http协议无状态》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489366&idx=1&sn=31e3dc51b5ea29459173711065377c61&chksm=a69090c791e719d17b1f2ce011ad80d073019b147348dd6eda10c1f610444779b19096ae946c&token=1662065714&lang=zh_CN#rd)；// 2020-12-04 **更新时间**
 
 ## 2.4 开发规范
 
 1. [《RESTful API设计规范》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=2&sn=fc660ee3ed04589f1dae5c7f7eac8f42&chksm=a6908cf291e705e4f514c4fe07cddba4fc887b92ebc4e4018b32a5dd49212ce105d73f8388f3&token=1351891679&lang=zh_CN#rd)；
+2. [《前后分离接口规范》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489131&idx=1&sn=b76b3a0f0cdf217e44d58f7247cf3b1b&chksm=a69091fa91e718ec2bec3ad7673ac289c378dbe15334e049406fa8cb214a9091cbef95ddcb62&token=1662065714&lang=zh_CN#rd)；// 2020-11-23 
 
 ## 2.5 redis
 
@@ -43,6 +46,8 @@
 
 1. [《一分钟玩转git》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485701&idx=1&sn=26fc01ec6bd97717be3ca10af1cd2db3&chksm=a6908e9491e70782e5dddac496376242117317fb4eb7d704fd1f35d287fe2309cc3aab0e0147&token=1671410784&lang=zh_CN#rd)；
 2. [《您必须知道的 Git 分支开发规范》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488594&idx=1&sn=aa14fb3b6bd351512386e82e0822a19f&chksm=a69093c391e71ad574df1a6f274f6021169a29d79adb8c48f27ec2d79e66908fc00a748d5e9d&token=776398405&lang=zh_CN#rd)；// 2020-10-29
+3. [《推荐一款代码生成器》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489274&idx=1&sn=df811e5f9d3af14191a70318058dd44e&chksm=a690916b91e7187da9bf2de640833ff733da477d1ab0588ac327f91a53b9b1cccb133dd6c818&token=1662065714&lang=zh_CN#rd)；// 2020-11-30
+4. [《Java程序员必备的11大IntelliJ插件》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489334&idx=1&sn=b28222a9470455ba76efd693005283e2&chksm=a69090a791e719b1cb22dbd3387cb608fb14be746861a8af216e5cf1c7fe46643ef1a6d738cb&token=1662065714&lang=zh_CN#rd)；// 2020-12-02
 
 ## 2.8架构
 
@@ -54,6 +59,7 @@
 1. [《nginx windows安装、使用和配置开机启动》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487953&idx=1&sn=4e6f450751e084073ce1b31547d1b0da&chksm=a690964091e71f561062db2c4570bcc5beb9d3a601c2980aee48e43f3dbf263f2c4ea08e23b6&token=756679922&lang=zh_CN#rd);
 2. [《Nginx+SpringBoot实现负载均衡》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487032&idx=1&sn=b9b2cdffd9fb05058f94b6ed8923dfd7&chksm=a69089a991e700bfdbbbc468d4ceb9c95c5a46caf3f8fbc1ec65f4a1fe743fba74139e880d2c&token=1742821280&lang=zh_CN#rd)；
 3. [《搞懂Nginx一篇文章就够了》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488550&idx=1&sn=332f4b6007d9d853beda0b960bacb8a6&chksm=a69093b791e71aa1a817ce5903edf2d283ee015034ec5afb491ca9a6f167256457d896be8713&token=776398405&lang=zh_CN#rd)；//2020-10-27
+4. [《如何设计一个通用的权限管理系统》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489235&idx=1&sn=fbf40daccd3db5aa046cdf2d5b483feb&chksm=a690914291e718543ef32c05e8437250c73b974537db4a17a651643f0f3aaf638cf192e31725&token=1662065714&lang=zh_CN#rd)；//2020-11-27
 
 # 三 框架技术
 
@@ -77,6 +83,7 @@
 7. [《基于Spring Boot发送 mail》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487930&idx=1&sn=6a00d2e0da9be39d8df4b788b44acea2&chksm=a690962b91e71f3d43a0d69724e192cb0f1dd668f66a650579446297d36cf4498cfa3358ee86&token=1610664951&lang=zh_CN#rd);
 8. [《swagger添加权限验证，swagger安全控制》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487968&idx=1&sn=0a242950d1dd170dbd7e9e444c5733d5&chksm=a690967191e71f67d2055abc2b66815e4135c55d3f0a64848a6f26b3674cafae1acad50825b7&token=756679922&lang=zh_CN#rd);
 9. [《Logback配置文件这么写，TPS提高10倍》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488617&idx=1&sn=7dfe292151fb83783fc2e3812534d58e&chksm=a69093f891e71aee4c54b6a47824b4a78a9959f99e9ed906bb8138add2d9335b03a586236046&token=776398405&lang=zh_CN#rd)；// 2020-11-02
+10. [《SpringBoot异步请求看这一篇就够了》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489138&idx=1&sn=2233dbfbe9513320cada1b0103377cef&chksm=a69091e391e718f59332f0e34437fa806fb510073f7eabd6bde814a26b7dc249351c227dbabe&token=1662065714&lang=zh_CN#rd)；// 2020-11-24
 
 ## 3.4 springSecurity
 
