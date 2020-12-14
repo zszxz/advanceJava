@@ -27,7 +27,7 @@
 
 1. [《三天两夜肝完这篇万字长文，终于拿下了TCP/IP》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486608&idx=1&sn=38d31824d09108c33b738e999fcbfdc6&chksm=a6908b0191e70217016943cd09351c0fb2a6051d72f0ada33045f39e681262506dcfb57d6c1a&token=682273603&lang=zh_CN#rd)；
 2. [《关于 TCP/IP，必知必会的十个问题》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488451&idx=1&sn=e282e96b22457c5305ff32d43ba64e04&chksm=a690945291e71d445afafe53765506e4f77f5976e5be13880746377f428011354b3cddc0175d&token=776398405&lang=zh_CN#rd)；//2020-10-26 
-3. [《什么是http协议无状态》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489366&idx=1&sn=31e3dc51b5ea29459173711065377c61&chksm=a69090c791e719d17b1f2ce011ad80d073019b147348dd6eda10c1f610444779b19096ae946c&token=1662065714&lang=zh_CN#rd)；// 2020-12-04 **更新时间**
+3. [《什么是http协议无状态》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489366&idx=1&sn=31e3dc51b5ea29459173711065377c61&chksm=a69090c791e719d17b1f2ce011ad80d073019b147348dd6eda10c1f610444779b19096ae946c&token=1662065714&lang=zh_CN#rd)；// 2020-12-04 
 
 ## 2.4 开发规范
 
@@ -37,6 +37,7 @@
 ## 2.5 redis
 
 1. [《Redis分布式锁的实现（Jedis和Redisson两个方案）》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487127&idx=1&sn=80f8a975d64e365f7dfb7f3809f92435&chksm=a690890691e7001057c63dde457f299ae46552b1751349bd0e7f9b2cd5505da8052264130442&token=1742821280&lang=zh_CN#rd)；
+2. [《redis实现点赞功能》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489492&idx=1&sn=da30f835bf32f97b2d729fb173a661ec&chksm=a690904591e7195340f1d045dcae19ca8d06d15360337032404d38209a0006a0eef47fa61666&token=145167073&lang=zh_CN#rd)；// 2020-12-09
 
 ## 2.6 消息队列
 
@@ -81,9 +82,10 @@
 5. [《SpringBoot+Mybatis+ Druid+PageHelper 实现多数据源并分页》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486892&idx=1&sn=9f675dad50b18ce55be2bdfa2ace9dbc&chksm=a6908a3d91e7032be17ae528c460fb30155869213fcaff5e9209d9d7e1839cd60020eba905ee&token=1573060596&lang=zh_CN#rd)；
 6. [《鱼与熊掌得兼：Hibernate与Mybatis共存》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487262&idx=1&sn=edaa0914f5fa5814f12bdb6f8d6d1fa7&chksm=a690888f91e70199d12f628e7a15d62916383187d4d935cfb8365a6f3508c21eb027c07001b2&token=1512196779&lang=zh_CN#rd)；
 7. [《基于Spring Boot发送 mail》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487930&idx=1&sn=6a00d2e0da9be39d8df4b788b44acea2&chksm=a690962b91e71f3d43a0d69724e192cb0f1dd668f66a650579446297d36cf4498cfa3358ee86&token=1610664951&lang=zh_CN#rd);
-8. [《swagger添加权限验证，swagger安全控制》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487968&idx=1&sn=0a242950d1dd170dbd7e9e444c5733d5&chksm=a690967191e71f67d2055abc2b66815e4135c55d3f0a64848a6f26b3674cafae1acad50825b7&token=756679922&lang=zh_CN#rd);
-9. [《Logback配置文件这么写，TPS提高10倍》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488617&idx=1&sn=7dfe292151fb83783fc2e3812534d58e&chksm=a69093f891e71aee4c54b6a47824b4a78a9959f99e9ed906bb8138add2d9335b03a586236046&token=776398405&lang=zh_CN#rd)；// 2020-11-02
-10. [《SpringBoot异步请求看这一篇就够了》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489138&idx=1&sn=2233dbfbe9513320cada1b0103377cef&chksm=a69091e391e718f59332f0e34437fa806fb510073f7eabd6bde814a26b7dc249351c227dbabe&token=1662065714&lang=zh_CN#rd)；// 2020-11-24
+8. [《Spring Boot qq邮箱验证码注册和登录验证》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489467&idx=1&sn=6687f32cbad9e90b92ed6d7e209b09a5&chksm=a690902a91e7193cb84f4473c8ac60a9f805e07a8ab22ef0f12c5812aea09f60eb7f91d17f20&token=145167073&lang=zh_CN#rd)；// 2020-12-08
+9. [《swagger添加权限验证，swagger安全控制》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487968&idx=1&sn=0a242950d1dd170dbd7e9e444c5733d5&chksm=a690967191e71f67d2055abc2b66815e4135c55d3f0a64848a6f26b3674cafae1acad50825b7&token=756679922&lang=zh_CN#rd);
+10. [《Logback配置文件这么写，TPS提高10倍》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488617&idx=1&sn=7dfe292151fb83783fc2e3812534d58e&chksm=a69093f891e71aee4c54b6a47824b4a78a9959f99e9ed906bb8138add2d9335b03a586236046&token=776398405&lang=zh_CN#rd)；// 2020-11-02
+11. [《SpringBoot异步请求看这一篇就够了》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489138&idx=1&sn=2233dbfbe9513320cada1b0103377cef&chksm=a69091e391e718f59332f0e34437fa806fb510073f7eabd6bde814a26b7dc249351c227dbabe&token=1662065714&lang=zh_CN#rd)；// 2020-11-24
 
 ## 3.4 springSecurity
 
@@ -94,14 +96,15 @@
 ## 4.1 MYSQL
 
 1. [《分库分表【Sharding-JDBC】入门与项目实战》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485516&idx=2&sn=1b6ced49cd8567f728eece27d9ffd2e7&chksm=a6908fdd91e706cbf88d4d69973a664b90992376c7614831758bbdd8a9ed9aa1dcad2da56208&token=22303395&lang=zh_CN#rd)；
-2. [《MySQL分页查询优化》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485695&idx=2&sn=b4c456b5ea3eec3dc7aa4e5cea659ba6&chksm=a6908f6e91e70678d1b5b70849c5edcc9484e5cd615707e2375849ccbcb4c764494568d23001&token=22303395&lang=zh_CN#rd)；
-3. [《mysql插入数据后返回自增ID的方法》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485941&idx=1&sn=104ccc2a42d858ada4ca00a7737cca5f&chksm=a6908e6491e707720795893f09ca6cceb613d9d25d9c8fc7c7a206e25b028f76bcb702c27329&token=482547197&lang=zh_CN#rd)；
-4. [《删库不跑路-详解MySQL数据恢复》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=1&sn=bdc44a92d38bbd29e0e208eb13b302b5&chksm=a6908cf291e705e48ddba8d53dd4b6d986cbbbd905e5cee760500b2a57769b90cd9cb0c673cc&token=1351891679&lang=zh_CN#rd)；
-5. [《MySQL数据库之互联网常用分库分表方案》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487082&idx=1&sn=db97e2acbe415b8f833f91cd910f9823&chksm=a69089fb91e700ed866ca3c97208fdc73b9fd6ce7782df064e2cc324623c686d1ec4f02b7b4f&token=1742821280&lang=zh_CN#rd)；
-6. [《MYSQL MVCC实现原理》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487989&idx=1&sn=8dd2faf1b87213a6c5ba90b12225372e&chksm=a690966491e71f72384d8a00bab33b17c8056b873a20f032ba69bc7af979a9c46990dd71899f&token=756679922&lang=zh_CN#rd);
-7. [《delete后加 limit是个好习惯么》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488002&idx=1&sn=2a4fe1cc304c3e9a24a8d0e4b3aafc80&chksm=a690959391e71c85b7a5bfbbb19333e6224683ac7fd71277ea7c89216388691e3d48e6aca03a&token=756679922&lang=zh_CN#rd);
-8. [《not in与not exists的区别》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488799&idx=1&sn=101500671be9688473916840ae472687&chksm=a690928e91e71b98c4176100148cb7f305adc1833402b07d6e6695a1c32188b7d4e738b892b2&token=776398405&lang=zh_CN#rd)；// 2020-11-09
-9. [《MySQL常见SQL错误用法》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489063&idx=1&sn=86072caad279056e164098b51236c4b3&chksm=a69091b691e718a006d64c29dd697bec98c7f583b206a7425d7d8761640b2edc83dbbca3f497&token=776398405&lang=zh_CN#rd)；// 2020-11-19
+2. [《Sharding-JDBC 快速入门》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489417&idx=1&sn=c3c0886bb597e88babd3e46ea566af5b&chksm=a690901891e7190e329064743721a1291caa807626f8a2d271da5798010e7cca5db616de13c5&token=145167073&lang=zh_CN#rd); // 2020-12-07 
+3. [《MySQL分页查询优化》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485695&idx=2&sn=b4c456b5ea3eec3dc7aa4e5cea659ba6&chksm=a6908f6e91e70678d1b5b70849c5edcc9484e5cd615707e2375849ccbcb4c764494568d23001&token=22303395&lang=zh_CN#rd)；
+4. [《mysql插入数据后返回自增ID的方法》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247485941&idx=1&sn=104ccc2a42d858ada4ca00a7737cca5f&chksm=a6908e6491e707720795893f09ca6cceb613d9d25d9c8fc7c7a206e25b028f76bcb702c27329&token=482547197&lang=zh_CN#rd)；
+5. [《删库不跑路-详解MySQL数据恢复》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247486307&idx=1&sn=bdc44a92d38bbd29e0e208eb13b302b5&chksm=a6908cf291e705e48ddba8d53dd4b6d986cbbbd905e5cee760500b2a57769b90cd9cb0c673cc&token=1351891679&lang=zh_CN#rd)；
+6. [《MySQL数据库之互联网常用分库分表方案》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487082&idx=1&sn=db97e2acbe415b8f833f91cd910f9823&chksm=a69089fb91e700ed866ca3c97208fdc73b9fd6ce7782df064e2cc324623c686d1ec4f02b7b4f&token=1742821280&lang=zh_CN#rd)；
+7. [《MYSQL MVCC实现原理》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487989&idx=1&sn=8dd2faf1b87213a6c5ba90b12225372e&chksm=a690966491e71f72384d8a00bab33b17c8056b873a20f032ba69bc7af979a9c46990dd71899f&token=756679922&lang=zh_CN#rd);
+8. [《delete后加 limit是个好习惯么》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488002&idx=1&sn=2a4fe1cc304c3e9a24a8d0e4b3aafc80&chksm=a690959391e71c85b7a5bfbbb19333e6224683ac7fd71277ea7c89216388691e3d48e6aca03a&token=756679922&lang=zh_CN#rd);
+9. [《not in与not exists的区别》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247488799&idx=1&sn=101500671be9688473916840ae472687&chksm=a690928e91e71b98c4176100148cb7f305adc1833402b07d6e6695a1c32188b7d4e738b892b2&token=776398405&lang=zh_CN#rd)；// 2020-11-09
+10. [《MySQL常见SQL错误用法》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489063&idx=1&sn=86072caad279056e164098b51236c4b3&chksm=a69091b691e718a006d64c29dd697bec98c7f583b206a7425d7d8761640b2edc83dbbca3f497&token=776398405&lang=zh_CN#rd)；// 2020-11-19
 
 # 五 容器化技术
 
@@ -120,7 +123,11 @@
 
 ## 6.2 故障排查
 
-[《JAVA线上故障排查全套路》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487444&idx=1&sn=529545d590d56f0740157fd812b97466&chksm=a690884591e70153d6e9ade488ee8ac02609faa05924ad8356a444451218eb857e6336acc267&token=1610664951&lang=zh_CN#rd)；
+1. [《JAVA线上故障排查全套路》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247487444&idx=1&sn=529545d590d56f0740157fd812b97466&chksm=a690884591e70153d6e9ade488ee8ac02609faa05924ad8356a444451218eb857e6336acc267&token=1610664951&lang=zh_CN#rd)；
+
+## 6.3 推荐
+
+1. [《推荐四款可视化工具，解决99%的可视化大屏需求》](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247489523&idx=1&sn=7ebd9b6d27639d1f50bfa1fcecc6758f&chksm=a690906291e719742037084e450d9296867febbde011b810675883b93225fbfa8f3061bb300a&token=145167073&lang=zh_CN#rd); // 2020-12-11 **更新时间**
 
 # 七 面试题
 
